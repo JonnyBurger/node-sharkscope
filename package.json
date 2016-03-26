@@ -1,0 +1,20 @@
+{
+  "name": "sharkscope",
+  "version": "1.0.0",
+  "description": "Retrieve information about online poker tournaments with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sharkscope",
+    "poker",
+    "pokerstars"
+  ],
+  "author": "Jonny <jonathanburger11@gmail.com> (http://jonny.io)",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.1.0",
+    "node-fetch": "^1.4.1"
+  }
+}
